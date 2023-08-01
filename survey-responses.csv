@@ -1,0 +1,109 @@
+﻿ResponseId,inv_1,inv_2,inv_3,inv_1_num,inv_2_num,inv_3_num,involvement_score,group,s1_pos,s2_neg,s1_neg,s2_pos,s1_pos_num,s2_neg_num,s1_neg_num,s2_pos_num,s1_choice,s1_frame,s2_choice,s2_frame,dem_1,dem_2,dem_3,dem_4,dem_5,dem_6
+R_9ua5XTvIhKfF6tX,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,United Kingdom,25 - 34,Female,Asian,Professional degree,Student
+R_2U9qH7HMnUyfV0c,Sometimes,Somewhat agree,Sometimes,2,4,2,8,A,Might or might not,Probably would,,,3,4,,,3,POS,4,NEG,Australia,18 - 24,Female,White,4 year degree,Employed part time
+R_T2d6BSViCyKUdwJ,Sometimes,Somewhat agree,Quite often,2,4,3,9,A,Probably would not,Probably would not,,,2,2,,,2,POS,2,NEG,United States,18 - 24,Female,White,High school graduate,Student
+R_OeCyrr4sCiumuzv,Quite often,Strongly agree,Sometimes,3,5,2,10,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,United Kingdom,18 - 24,Female,White,High school graduate,Employed part time
+R_USnLVPpSWYGzGSZ,Most of the time,Strongly agree,Most of the time,4,5,4,13,B,,,Probably would,Probably would,,,4,4,4,NEG,4,POS,Sweden,25 - 34,Male,White,4 year degree,Student
+R_1IgWfLN2aGTJ1as,Never,Strongly agree,Never,1,5,1,7,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,Netherlands,18 - 24,Male,White,4 year degree,Employed part time
+R_3GBaX9IkJnhujI5,Always,Strongly agree,Never,5,5,1,11,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,Austria,35 - 44,Female,White,4 year degree,Employed part time
+R_1OUGVpPjgarguOi,Quite often,Strongly agree,Always,3,5,5,13,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Belgium,25 - 34,Female,Asian,Professional degree,Student
+R_3fjJ55u2ltDJYG0,Most of the time,Somewhat agree,Quite often,4,4,3,11,A,Probably would not,Probably would,,,2,4,,,2,POS,4,NEG,Italy,18 - 24,Female,White,4 year degree,Student
+R_6EWdsPKDNGvRmP7,Quite often,Strongly agree,Sometimes,3,5,2,10,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Italy,18 - 24,Female,White,4 year degree,Employed full time
+R_0qWvLWrUGDFYR1v,Sometimes,Strongly agree,Sometimes,2,5,2,9,B,,,Might or might not,Probably would not,,,3,2,3,NEG,2,POS,Italy,18 - 24,Female,White,Bachelor's degree,Employed full time
+R_2WO21V0PGF1LMse,Quite often,Somewhat agree,Sometimes,3,4,2,9,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Italy,18 - 24,Female,Other,Bachelor's degree,Employed full time
+R_2VO37ECZ148sMEx,Sometimes,Strongly agree,Most of the time,2,5,4,11,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Employed full time
+R_2q3Q7DkmY8XmYOQ,Quite often,Somewhat agree,Quite often,3,4,3,10,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Italy,18 - 24,Female,White,High school graduate,Employed part time
+R_1jP1vPaoPncrfQf,Never,Somewhat disagree,Sometimes,1,2,2,5,B,,,Definitely would not,Definitely would not,,,1,1,1,NEG,1,POS,Italy,18 - 24,Male,White,Master's degree,Employed full time
+R_3hA6iNDA1hf9hH3,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Probably would not,Probably would,,,2,4,2,NEG,4,POS,Italy,18 - 24,Female,White,Master's degree,Student
+R_2Tq7uy9OASuNdDq,Quite often,Strongly agree,Quite often,3,5,3,11,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Italy,18 - 24,Male,White,Professional degree,Student
+R_Xw6FMtnxL6U8TRf,Sometimes,Somewhat agree,Sometimes,2,4,2,8,A,Definitely would not,Probably would not,,,1,2,,,1,POS,2,NEG,Italy,18 - 24,Male,White,Professional degree,Employed full time
+R_NUA2csaPpR6EPyV,Sometimes,Strongly agree,Quite often,2,5,3,10,B,,,Probably would not,Probably would,,,2,4,2,NEG,4,POS,Italy,18 - 24,Male,White,Bachelor's degree,Employed full time
+R_2wHzLoRe65kE5rJ,Never,Strongly disagree,Never,1,1,1,3,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,Ireland {Republic},18 - 24,Male,White,4 year degree,Employed full time
+R_2bLgvVo4XMC6ndf,Most of the time,Somewhat agree,Most of the time,4,4,4,12,A,Definitely would not,Probably would,,,1,4,,,1,POS,4,NEG,Italy,18 - 24,Male,White,Bachelor's degree,Employed full time
+R_3DbirvRla836Jm6,Most of the time,Strongly agree,Most of the time,4,5,4,13,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Italy,18 - 24,Female,White,Professional degree,Employed full time
+R_Z4NGoNOGhYs9vfH,Sometimes,Strongly agree,Never,2,5,1,8,B,,,Probably would not,Definitely would not,,,2,1,2,NEG,1,POS,Italy,18 - 24,Male,White,4 year degree,Student
+R_pnsCuH5EAnPDUPL,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Might or might not,Probably would,,,3,4,,,3,POS,4,NEG,Italy,18 - 24,Female,White,Professional degree,Employed part time
+R_3Ecc0Qo4kRoZ3LZ,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Probably would not,Probably would,,,2,4,2,NEG,4,POS,Italy,18 - 24,Male,White,Master's degree,Student
+R_2317Up8N3Z7kLuP,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Probably would,Might or might not,,,4,3,,,4,POS,3,NEG,Italy,18 - 24,Male,White,Bachelor's degree,Student
+R_2tyawa6lztUreUU,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Probably would not,Probably would not,,,2,2,,,2,POS,2,NEG,Germany,18 - 24,Male,White,4 year degree,Student
+R_sGSAnRNDDNFwwyl,Sometimes,Somewhat agree,Sometimes,2,4,2,8,B,,,Probably would not,Might or might not,,,2,3,2,NEG,3,POS,Germany,18 - 24,Male,Asian,Professional degree,Student
+R_25ZMTGKzJq3Kn6n,Sometimes,Strongly agree,Sometimes,2,5,2,9,B,,,Might or might not,Probably would not,,,3,2,3,NEG,2,POS,Germany,25 - 34,Male,Asian,Professional degree,Student
+R_T1xEyRhehCRIuDD,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Probably would,Might or might not,,,4,3,,,4,POS,3,NEG,Germany,25 - 34,Male,Other,Bachelor's degree,Student
+R_31ji44T7D9bi8wU,Most of the time,Strongly agree,Sometimes,4,5,2,11,A,Probably would not,Probably would not,,,2,2,,,2,POS,2,NEG,Germany,18 - 24,Female,White,Professional degree,Employed part time
+R_AtcEAjzrVzINYJj,Quite often,Somewhat agree,Sometimes,3,4,2,9,B,,,Might or might not,Definitely would not,,,3,1,3,NEG,1,POS,Italy,25 - 34,Male,Other,Master's degree,Employed full time
+R_1M0QG9QLrqpe7Sh,Always,Strongly agree,Most of the time,5,5,4,14,A,Might or might not,Probably would not,,,3,2,,,3,POS,2,NEG,Italy,18 - 24,Male,White,Professional degree,Employed full time
+R_3RqomL6y6ErBc9b,Sometimes,Strongly agree,Sometimes,2,5,2,9,B,,,Probably would not,Definitely would not,,,2,1,2,NEG,1,POS,Germany,45 - 54,Female,Black or African American,Master's degree,Employed part time
+R_2VsCawkLp285r6R,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Probably would,Probably would,,,4,4,,,4,POS,4,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Employed full time
+R_1DpfGpgAvFgykXm,Most of the time,Strongly agree,Most of the time,4,5,4,13,B,,,Definitely would not,Definitely would not,,,1,1,1,NEG,1,POS,Germany,25 - 34,Female,Asian,Professional degree,Student
+R_2zUbXBXGThlztXB,Sometimes,Strongly agree,Most of the time,2,5,4,11,B,,,Definitely would not,Probably would,,,1,4,1,NEG,4,POS,Italy,18 - 24,Male,White,Bachelor's degree,Employed full time
+R_1QEjb2Hq6BDKSeb,Quite often,Strongly agree,Quite often,3,5,3,11,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Germany,18 - 24,Female,White,Professional degree,Student
+R_zVH61wrPAAt2lih,Sometimes,Somewhat disagree,Sometimes,2,2,2,6,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Germany,25 - 34,Male,White,4 year degree,Employed part time
+R_20Osk4jDmlfB2TF,Most of the time,Strongly agree,Quite often,4,5,3,12,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,Italy,18 - 24,Male,White,4 year degree,Employed full time
+R_2VDasbxc38PXj98,Sometimes,Strongly agree,Quite often,2,5,3,10,A,Might or might not,Definitely would not,,,3,1,,,3,POS,1,NEG,Italy,18 - 24,Male,White,4 year degree,Employed full time
+R_9pkp9SIyf1fKysh,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Probably would not,Might or might not,,,2,3,2,NEG,3,POS,Italy,18 - 24,Male,White,4 year degree,Employed full time
+R_3iQH1hPRXt1ZMNs,Most of the time,Strongly agree,Sometimes,4,5,2,11,A,Probably would,Might or might not,,,4,3,,,4,POS,3,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Employed full time
+R_3fpoiknkKCEvVpL,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Might or might not,,,3,3,3,NEG,3,POS,United States,35 - 44,Male,White,Master's degree,Employed part time
+R_1o24StLMRcXlQSw,Most of the time,Strongly agree,Quite often,4,5,3,12,B,,,Might or might not,Probably would not,,,3,2,3,NEG,2,POS,Germany,18 - 24,Female,White,4 year degree,Student
+R_1gptNXMhlnCxD0x,Sometimes,Somewhat agree,Never,2,4,1,7,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,Sweden,18 - 24,Male,White,Less than high school,Unemployed not looking for work
+R_1Ia8wfJMoEzwec8,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Germany,25 - 34,Male,Other,Professional degree,Employed part time
+R_1PcvWhrA5eLK3wg,Most of the time,Strongly disagree,Sometimes,4,1,2,7,A,Probably would not,Probably would not,,,2,2,,,2,POS,2,NEG,Germany,25 - 34,Female,White,4 year degree,Student
+R_1JJT0hJPwHL5ZKL,Most of the time,Strongly agree,Quite often,4,5,3,12,B,,,Probably would,Probably would,,,4,4,4,NEG,4,POS,Germany,18 - 24,Female,White,4 year degree,Student
+R_6M7uhekgGLvD905,Most of the time,Somewhat agree,Most of the time,4,4,4,12,A,Probably would,Definitely would,,,4,5,,,4,POS,5,NEG,Italy,18 - 24,Female,White,Master's degree,Student
+R_2rx6BPOUkqUcFGI,Quite often,Somewhat agree,Sometimes,3,4,2,9,B,,,Probably would not,Probably would,,,2,4,2,NEG,4,POS,Germany,25 - 34,Female,Asian,Professional degree,Student
+R_A6BwxqCJqHLV82t,Quite often,Somewhat agree,Most of the time,3,4,4,11,A,Might or might not,Probably would not,,,3,2,,,3,POS,2,NEG,Italy,25 - 34,Male,White,4 year degree,Employed full time
+R_Dc4lqs9gAcW5ugN,Most of the time,Strongly agree,Most of the time,4,5,4,13,A,Definitely would,Might or might not,,,5,3,,,5,POS,3,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Student
+R_1M4YnXmuQYBcvmx,Quite often,Strongly agree,Quite often,3,5,3,11,A,Might or might not,Might or might not,,,3,3,,,3,POS,3,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Student
+R_3lLHjVGGB5Bu0zF,Sometimes,Somewhat agree,Sometimes,2,4,2,8,B,,,Probably would,Probably would not,,,4,2,4,NEG,2,POS,Italy,18 - 24,Female,White,High school graduate,Student
+R_3F4FQgJmGBgB6kb,Most of the time,Strongly agree,Quite often,4,5,3,12,B,,,Might or might not,Might or might not,,,3,3,3,NEG,3,POS,Italy,18 - 24,Male,White,Bachelor's degree,Employed part time
+R_32XBFXyn587lbWs,Sometimes,Somewhat agree,Never,2,4,1,7,B,,,Definitely would not,Probably would not,,,1,2,1,NEG,2,POS,Germany,18 - 24,Male,White,4 year degree,Student
+R_25Ww4URVoSwHpbc,Always,Strongly agree,Most of the time,5,5,4,14,A,Probably would,Might or might not,,,4,3,,,4,POS,3,NEG,Italy,18 - 24,Female,White,High school graduate,Student
+R_2TzYdN8WlxF5rQ6,Sometimes,Strongly agree,Most of the time,2,5,4,11,A,Probably would,Probably would not,,,4,2,,,4,POS,2,NEG,Germany,25 - 34,Female,Asian,Master's degree,Employed part time
+R_1jTl5VK7jpARBh7,Sometimes,Strongly agree,Quite often,2,5,3,10,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,United States,18 - 24,Female,White,High school graduate,Student
+R_27vgcNbMcSEuBo3,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Might or might not,Probably would not,,,3,2,,,3,POS,2,NEG,Italy,18 - 24,Female,White,Bachelor's degree,Employed part time
+R_3rSfadbbuk2vFCi,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Probably would not,Might or might not,,,2,3,2,NEG,3,POS,Italy,18 - 24,Male,White,High school graduate,Student
+R_11iNMyKvTAHRhm9,Sometimes,Somewhat agree,Sometimes,2,4,2,8,A,Probably would not,Probably would not,,,2,2,,,2,POS,2,NEG,Germany,18 - 24,Female,White,4 year degree,Student
+R_3ERT1SYfW8P1wje,Most of the time,Strongly agree,Quite often,4,5,3,12,A,Might or might not,Probably would,,,3,4,,,3,POS,4,NEG,Italy,35 - 44,Female,White,4 year degree,Employed part time
+R_2wb1oF801WODe3j,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Probably would not,,,3,2,3,NEG,2,POS,Italy,25 - 34,Male,White,Professional degree,Employed full time
+R_816RTVtHbp3vlQZ,Sometimes,Strongly agree,Sometimes,2,5,2,9,A,Probably would not,Probably would,,,2,4,,,2,POS,4,NEG,Italy,18 - 24,Female,White,4 year degree,Employed full time
+R_1lhkXiQMJWgpech,Quite often,Somewhat agree,Most of the time,3,4,4,11,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Germany,18 - 24,Female,White,Professional degree,Student
+R_3hhxHTiEKUrEzPD,Quite often,Somewhat disagree,Sometimes,3,2,2,7,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,Germany,25 - 34,Female,Asian,High school graduate,Unemployed looking for work
+R_3O8Hmj96qM93jnU,Sometimes,Strongly agree,Sometimes,2,5,2,9,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Germany,25 - 34,Female,Asian,4 year degree,Employed full time
+R_3hngLl3I927Kzwl,Never,Strongly agree,Sometimes,1,5,2,8,A,Definitely would not,Might or might not,,,1,3,,,1,POS,3,NEG,United States,18 - 24,Male,Asian,4 year degree,Unemployed looking for work
+R_3OeoFFDFwIYrtTm,Never,Somewhat agree,Never,1,4,1,6,B,,,Definitely would not,Definitely would not,,,1,1,1,NEG,1,POS,New Zealand,Under 18,Female,White,High school graduate,Student
+R_26gOEjZatVQX6oX,Sometimes,Somewhat agree,Sometimes,2,4,2,8,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,United States,25 - 34,Male,White,4 year degree,Employed full time
+R_30bCZCFoyStXHD6,Most of the time,Somewhat disagree,Quite often,4,2,3,9,A,Definitely would not,Might or might not,,,1,3,,,1,POS,3,NEG,Algeria,45 - 54,Female,Black or African American,Master's degree,Unemployed looking for work
+R_3DqIcpGtgRAVyC2,Sometimes,Somewhat agree,Never,2,4,1,7,A,Probably would,Probably would not,,,4,2,,,4,POS,2,NEG,United States,18 - 24,Female,White,4 year degree,Student
+R_1kU1wLPB3RIYanT,Quite often,Somewhat agree,Sometimes,3,4,2,9,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,United States,18 - 24,Female,Asian,Bachelor's degree,Student
+R_3J8VSo55QjP71UE,Quite often,Somewhat disagree,Quite often,3,2,3,8,B,,,Definitely would not,Definitely would not,,,1,1,1,NEG,1,POS,Algeria,45 - 54,Male,Native Hawaiian or Pacific Islander,High school graduate,Unemployed looking for work
+R_3fOGoF8iTtnFWYc,Quite often,Strongly agree,Quite often,3,5,3,11,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Singapore,25 - 34,Female,Asian,Master's degree,Employed full time
+R_3CVgQCHTzeSFiqs,Never,Strongly agree,Never,1,5,1,7,B,,,Might or might not,Definitely would not,,,3,1,3,NEG,1,POS,United States,18 - 24,Male,Asian,4 year degree,Employed part time
+R_1MWj7kekhuPeFzQ,Never,Somewhat agree,Sometimes,1,4,2,7,A,Might or might not,Probably would,,,3,4,,,3,POS,4,NEG,United States,18 - 24,Female,Asian,4 year degree,Student
+R_Dkp5iUvTllzvzLX,Sometimes,Somewhat agree,Sometimes,2,4,2,8,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,United States,18 - 24,Female,White,4 year degree,Student
+R_rcMdYWaUzfEzrjP,Quite often,Strongly agree,Sometimes,3,5,2,10,B,,,Probably would not,Probably would not,,,2,2,2,NEG,2,POS,United States,18 - 24,Female,White,Bachelor's degree,Student
+R_2wtSI898IUscEvo,Sometimes,Somewhat agree,Quite often,2,4,3,9,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,New Zealand,25 - 34,Female,Asian,Professional degree,Employed full time
+R_3PAe2MQoEhZHPfD,Quite often,Strongly agree,Sometimes,3,5,2,10,A,Definitely would not,Definitely would not,,,1,1,,,1,POS,1,NEG,United States,25 - 34,Prefer not to say,Other,Bachelor's degree,Student
+R_xgWdHw6yOz2H1U5,Never,Neither agree nor disagree,Sometimes,1,3,2,6,B,,,Definitely would not,Definitely would not,,,1,1,1,NEG,1,POS,United States,18 - 24,Female,White,Bachelor's degree,Student
+R_YVQZnxzs2S9I9Xz,Sometimes,Somewhat disagree,Quite often,2,2,3,7,A,Might or might not,Probably would not,,,3,2,,,3,POS,2,NEG,Afghanistan,25 - 34,Female,White,4 year degree,Retired
+R_29tOoe5gM5yUL4e,Quite often,Somewhat disagree,Sometimes,3,2,2,7,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,United States,25 - 34,Male,White,Master's degree,Unemployed looking for work
+R_3KTa0xXf3WpdQD7,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,United States,18 - 24,Female,White,Master's degree,Employed part time
+R_3012AAC5YH7TlHB,Most of the time,Somewhat agree,Most of the time,4,4,4,12,B,,,Definitely would,Definitely would,,,5,5,5,NEG,5,POS,United States,18 - 24,Female,White,4 year degree,Student
+R_ZmJ55CK3VCkQLWp,Sometimes,Strongly agree,Sometimes,2,5,2,9,A,Probably would not,Definitely would not,,,2,1,,,2,POS,1,NEG,United States,25 - 34,Female,Asian,4 year degree,Student
+R_3EyH84wl2quE9gS,Sometimes,Somewhat agree,Sometimes,2,4,2,8,B,,,Definitely would not,Probably would,,,1,4,1,NEG,4,POS,Italy,18 - 24,Male,White,4 year degree,Student
+R_2P7hcLbutYk62nw,Sometimes,Somewhat disagree,Sometimes,2,2,2,6,A,Definitely would not,Probably would,,,1,4,,,1,POS,4,NEG,Maldives,25 - 34,Prefer not to say,American Indian or Alaska Native,Bachelor's degree,Retired
+R_1o7lcT542QQf8Yy,Sometimes,Strongly agree,Quite often,2,5,3,10,B,,,Probably would,Probably would,,,4,4,4,NEG,4,POS,Brazil,25 - 34,Female,Asian,Professional degree,Student
+R_2CCd2odCv0jCUfD,Most of the time,Strongly agree,Always,4,5,5,14,A,Definitely would,Definitely would,,,5,5,,,5,POS,5,NEG,Australia,18 - 24,Female,White,4 year degree,Employed part time
+R_2B8WcgWepJYoD7E,Quite often,Strongly agree,Quite often,3,5,3,11,B,,,Might or might not,Might or might not,,,3,3,3,NEG,3,POS,United Kingdom,18 - 24,Male,White,Professional degree,Student
+R_1mOySwAtVWDndfF,Most of the time,Strongly agree,Sometimes,4,5,2,11,A,Probably would not,Might or might not,,,2,3,,,2,POS,3,NEG,Italy,25 - 34,Female,White,Professional degree,Employed full time
+R_3sn5RVtpVwMxJHf,Most of the time,Somewhat agree,Most of the time,4,4,4,12,B,,,Probably would,Probably would,,,4,4,4,NEG,4,POS,Bangladesh,25 - 34,Male,Asian,Bachelor's degree,Employed part time
+R_w5WjuGIRtIOyAnf,Never,Somewhat disagree,Sometimes,1,2,2,5,A,Definitely would not,Probably would,,,1,4,,,1,POS,4,NEG,Germany,18 - 24,Male,White,4 year degree,Unemployed not looking for work
+R_2UhLEpIyR6jy9qv,Quite often,Strongly disagree,Sometimes,3,1,2,6,B,,,Probably would,Might or might not,,,4,3,4,NEG,3,POS,Italy,18 - 24,Male,White,4 year degree,Unemployed looking for work
+R_0TXRXUwBAZcNbKp,Always,Neither agree nor disagree,Quite often,5,3,3,11,A,Probably would,Might or might not,,,4,3,,,4,POS,3,NEG,Germany,25 - 34,Male,Asian,Professional degree,Employed full time
+R_27UqUoAnw4SDhT6,Sometimes,Neither agree nor disagree,Never,2,3,1,6,B,,,Might or might not,Definitely would not,,,3,1,3,NEG,1,POS,Germany,18 - 24,Female,White,Bachelor's degree,Student
+R_3gLD30qr4e4xhDd,Sometimes,Neither agree nor disagree,Quite often,2,3,3,8,B,,,Definitely would not,Probably would not,,,1,2,1,NEG,2,POS,Germany,25 - 34,Female,White,Bachelor's degree,Employed full time
+R_25ZEU0zk4MUVvu9,Quite often,Somewhat agree,Always,3,4,5,12,A,Probably would not,Probably would,,,2,4,,,2,POS,4,NEG,United Kingdom,Under 18,Female,Asian,Less than high school,Student
+R_1FRE8IDdeFYklgZ,Sometimes,Somewhat agree,Sometimes,2,4,2,8,A,Probably would,Probably would,,,4,4,,,4,POS,4,NEG,United Kingdom,18 - 24,Male,White,4 year degree,Student
+R_3L4LBpT0d71tFSV,Most of the time,Strongly agree,Most of the time,4,5,4,13,B,,,Probably would,Probably would not,,,4,2,4,NEG,2,POS,United Kingdom,18 - 24,Female,White,4 year degree,Student
+R_2zBxTpfI04cbgF0,Never,Somewhat agree,Never,1,4,1,6,A,Probably would not,Definitely would not,,,2,1,,,2,POS,1,NEG,Ireland {Republic},25 - 34,Male,White,4 year degree,Employed part time
+R_2wEqB16cbNEX8zI,Sometimes,Somewhat agree,Quite often,2,4,3,9,A,Definitely would,Definitely would not,,,5,1,,,5,POS,1,NEG,United States,Under 18,Male,Black or African American,Less than high school,Student
+R_sBBU7cyow6QEtbz,Sometimes,Somewhat disagree,Sometimes,2,2,2,6,B,,,Might or might not,Probably would not,,,3,2,3,NEG,2,POS,United Kingdom,18 - 24,Male,Asian,Professional degree,Student
+R_3sdEUe9kNoyrybH,Sometimes,Somewhat agree,Quite often,2,4,3,9,B,,,Might or might not,Probably would,,,3,4,3,NEG,4,POS,Belgium,18 - 24,Male,White,4 year degree,Student
